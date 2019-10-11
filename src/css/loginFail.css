@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+ul li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+
+#main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 200px;
+    width: 1000px;
+    margin: auto;
+}
+.main-right h1{
+    padding-bottom: 20px;
+}
+.main-right p{
+    font-size: 20px;
+    padding-bottom: 10px;
+}   
